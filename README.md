@@ -1,4 +1,4 @@
-# Dataset-Narkotika_088_106
+# Dataset-Narkotika dan Psikotropika
 Dataset ini mencakup 50 putusan pengadilan kasus narkotika dan psikotropika dari Pengadilan Negeri Pekanbaru. Tersedia dalam format PDF dengan ringkasan di Excel, dataset ini mendukung penelitian hukum dan analisis data kriminal, mencakup nomor putusan, lembaga, barang bukti, dan amar putusan.
 Repository ini berisi dataset yang mengumpulkan 50 putusan pengadilan terkait kasus narkotika dan psikotropika di Pengadilan Negeri Pekanbaru. Dataset ini disusun untuk mempermudah proses analisis dan pengolahan data putusan pengadilan, yang dapat dimanfaatkan untuk riset hukum, analisis data kriminal, atau pelatihan model pembelajaran mesin di bidang hukum.
 
