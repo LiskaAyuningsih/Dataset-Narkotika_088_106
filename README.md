@@ -1,4 +1,5 @@
-                          # DATASET NARKOTIKA DAN PSIKOTROPIKA
+<h1 align="center">DATASET NARKOTIKA DAN PSIKOTROPIKA</h1>
+
 
 # Deskripsi
 
@@ -7,10 +8,13 @@ Repository ini berisi dataset yang terdiri dari 50 putusan pengadilan terkait ka
 # Struktur File dan FOlder
 
 ├── Dataset
-│   └── Narkotika.zip      # File zip yang berisi 50 dokumen putusan dalam   
-                             format PDF
+
+│   └── Narkotika.zip      # File zip yang berisi 50 dokumen putusan dalam format PDF
+
 ├── Overview
+
 │   └── Overview.xlsx      # Ringkasan dari putusan-putusan dalam format Excel
+
 └── README.md              # Dokumentasi lengkap repository ini
 
 
