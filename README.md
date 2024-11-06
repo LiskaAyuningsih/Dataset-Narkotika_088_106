@@ -3,6 +3,10 @@
 
 
 
+
+
+
+
 # Deskripsi Dataset
 
 Repository ini berisi dataset yang terdiri dari 50 putusan pengadilan terkait kasus narkotika dan psikotropika yang dikeluarkan oleh Pengadilan Negeri Pekanbaru. Dataset ini disusun untuk mempermudah akses dan analisis putusan-putusan hukum, serta menyediakan data untuk riset hukum, studi data kriminal, atau pengembangan model pembelajaran mesin yang berkaitan dengan analisis teks hukum.
